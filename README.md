@@ -9,3 +9,5 @@ Last line for now.
 What do you say to this?
 Never say never again.
 Because we always more to say.
+Don't we?
+Well, what can I say?
