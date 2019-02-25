@@ -15,3 +15,5 @@ Conflicting change in master.
 Base branch change.
 Derivative base change.
 New line.
+Another line.
+One more line.
