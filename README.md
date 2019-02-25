@@ -14,3 +14,4 @@ Well, what can I say?
 Conflicting change in master.
 Base branch change.
 Derivative base change.
+Hotfix line.
