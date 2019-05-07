@@ -16,4 +16,5 @@ Base branch change.
 Derivative base change.
 Hotfix line.
 New line.
+Extra line.
 Issue fix line.
