@@ -20,3 +20,4 @@ Extra line.
 Issue fix line.
 Dependent fix.
 Issue 3 fix.
+Fix issue 4.
